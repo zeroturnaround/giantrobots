@@ -10,15 +10,17 @@ Notable features:
 * Proven prototypes have successfully invaded scale models of the Modern World
   As We Know It, we're certain that it will apply to the world we don't know
 * Towels can be carried by most of the robot models, making them ready for
-  interstellar travel
+  interstellar galactic travel
 * Video instructions and audio testimonies of our honest findings are included
 
 How to build your own robots
 ----------------------------
 
-The designs can be easily built with RoBuMa (Robot Building Machine) v0.9 or later. You merely need to load the designs onto Secure Storage Slices and introduce them at exactly 17 second intervals, failure to respect this rhythm yield unpredictable results that could be fun and maybe even more dangerous. We've discovered quite a few interesting variations by randomly changing the timings.
+The designs can be easily built with RoBuMa (Robot Building Machine) v0.9 or later. You merely need to load the files onto Secure Storage Slices and introduce them at exactly 17 second intervals, failure to respect this rhythm yields unpredictable results that could be fun and maybe even more dangerous. We've discovered quite a few interesting variations by randomly changing the timings.
 
 How to invade the world
 -----------------------
 
-Since the invasion of the 'Modern World As We Know It' is already underway by our Giant Robots, we strongly suggest that you find another Modern World that we don't know. Alternatively, you can join our forces and make the invasion even more successful. We've got a wonderful Tiny Robot for everyone that makes a useful contribution.
+Since the invasion of the 'Modern World As We Know It' is already underway by our Giant Robots, we strongly suggest that you find another Modern World. Alternatively, you can join our forces and make the invasion even more successful. We've got a wonderful Tiny Robot for everyone that makes a useful contribution.
+
+**Don't forget:** The Robots Are Your Friends
