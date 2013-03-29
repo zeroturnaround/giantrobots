@@ -13,6 +13,8 @@ World Domination
 
 Enslaving humanity and achieving world domination is not an easy thing to do, otherwise you would already be enslaved by someone. We cannot take over the world ourselves, just like that, we need a structured plan with a good dose of kick ass. In our case we more than enough kick ass, as we are deep into the research and development for creating Giant Robots [Picture of robot blueprints] which we will use as part of an army to enslave the human race. I know what you're thinking, "How can you build Giant Robots to enslave humanity when Google hold all the patents?", right? Well, this sure did [Link to google patent doc]slow down our development but we are confident we have an innovative design which doesn't encroach on the IP of competitors who are trying to achieve the same goals as us.
 
+![Giant Robot Mark 2](https://bitbucket.org/zeroturnaround/opensource/raw/ac32fcfdf38097535d209ae65da787dfe7c10a16/Research/GiantRobots%20Mark%202.jpg)
+
 Fear Not
 --------
 
