@@ -1,27 +1,18 @@
 GiantRobots
 ===========
 
-A New Era
----------
-
-The world changes every day, so to be a successful company your business needs to adapt to the world it is in. As a result, ZeroTurnaround would like to make the following announcement outlining our new company strategy and goals going forward as a successful business. 
-
-In the past, we have been able to capture the developer market with JRebel as well as provide a great product in the Operations space with LiveRebel. While this is great for revenue, it has neither satisfied our ambitions of world domination or enslaving humanity.
+![Giant Robot Mark 2](https://bitbucket.org/zeroturnaround/opensource/raw/ac32fcfdf38097535d209ae65da787dfe7c10a16/Research/GiantRobots%20Mark%202.jpg)
 
 World Domination
 ----------------
 
-Enslaving humanity and achieving world domination is not an easy thing to do, otherwise you would already be enslaved by someone. We cannot take over the world ourselves, just like that, we need a structured plan with a good dose of kick ass. In our case we more than enough kick ass, as we are deep into the research and development for creating Giant Robots [Picture of robot blueprints] which we will use as part of an army to enslave the human race. I know what you're thinking, "How can you build Giant Robots to enslave humanity when Google hold all the patents?", right? Well, this sure did [Link to google patent doc]slow down our development but we are confident we have an innovative design which doesn't encroach on the IP of competitors who are trying to achieve the same goals as us.
+Enslaving humanity and achieving world domination is not an easy thing to do, otherwise you would already be enslaved by someone. We cannot take over the world ourselves, just like that, we need a structured plan with a good dose of kick ass. In our case we more than enough kick ass, as we are deep into the research and development for creating Giant Robots which we will use as part of an army to enslave the human race. I know what you're thinking, "How can you build Giant Robots to enslave humanity when Google hold all the patents?", right? Well, this sure did [slow down our development](Operations/Legal report on Giant Robot Mark 1.pdf) but we are confident we have an innovative design which doesn't encroach on the IP of competitors who are trying to achieve the same goals as us.
 
-![Giant Robot Mark 2](https://bitbucket.org/zeroturnaround/opensource/raw/ac32fcfdf38097535d209ae65da787dfe7c10a16/Research/GiantRobots%20Mark%202.jpg)
 
-Fear Not
---------
+Open Source
+---------------------------------------
 
 This announcement should not strike fear into anyone. Yes we're trying to dominate humanity, yes, we're trying to enslave you and all of your friends and families, but we will be doing it, as… an Open Source Company. As part of the new direction the entire company will become open source. How can you fear open source? Everyone loves it! And you'll learn to love us and see us less as dictators and more as your family. You'll consider the Giant Robots less as your captors and more as your police. You'll enjoy your new lives, we'll make sure you do.
-
-What does Open Sourcing a company mean?
----------------------------------------
 
 This is a bold move. Few companies like to open source their projects, let alone their entire company. We are currently leading this new movement by creating a new GitHub account with an open [link to GitHub] source repository packed with info about how to create a company like ZeroTurnaround and how to create your own Giant Robots.
 
