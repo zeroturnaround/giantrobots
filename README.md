@@ -23,11 +23,11 @@ Navigating the Repository
 
 This repository contains the following materials:
 
-* [*Enforcement*](Enforcement): Developing military strategy and policing force to help support the Giant Robots.
-* [*Operations*](Operations): Business planning, resource acquisition and operational logistics.
-* [*Propaganda*](Propaganda): Crowd appeasement and control, personality cult development and seeding dissatisfaction and collaboration.
-* [*Recruitment*](Recruitment): Personnel acquisition, appeasement and control.
-* [*Research*](Research): Giant Robots plans, prototypes, test logs.
+* [Enforcement](Enforcement): Developing military strategy and policing force to help support the Giant Robots.
+* [Operations](Operations): Business planning, resource acquisition and operational logistics.
+* [Propaganda](Propaganda): Crowd appeasement and control, personality cult development and seeding dissatisfaction and collaboration.
+* [Recruitment](Recruitment): Personnel acquisition, appeasement and control.
+* [Research](Research): Giant Robots plans, prototypes, test logs.
 
 Licensing
 ---------
