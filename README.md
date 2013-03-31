@@ -44,6 +44,6 @@ How to invade the world
 
 Since the invasion of the 'Modern World As We Know It' is already underway by our ZeroTurnaround, we strongly suggest that you find another Modern World. Alternatively, you can join our forces and make the invasion even more successful. We've got a wonderful Tiny Robot for everyone that makes a useful contribution.
 
-**Don't forget:** The Robots Are Your Friends
+**Don't forget:** [The Robots Are Your Friends](Enforcement/Robot%20Communication%20Instructions.mp4)
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/58797dc05969e22f7f2ac706eebadaa6 "githalytics.com")](http://githalytics.com/zeroturnaround/giantrobots)
