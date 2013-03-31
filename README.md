@@ -4,7 +4,7 @@ GiantRobots
 Overview
 --------
 
-Welcome to the GiantRobots project. This open source repository is a part of ZeroTurnaround's plan to dominate humanity by building and deploying Giant Robots. This repository holds the plans for the (obsolete) [Giant Robot Mark 1](Research/GiantRobots Mark 1.jpg?raw=true) and the current [Giant Robot Mark 2](Research/GiantRobots Mark 2.jpg?raw=true) as well as open sourced materials to build your own corporation bent on world domination.
+Welcome to the GiantRobots project. This open source repository is a part of ZeroTurnaround's plan to dominate humanity by building and deploying Giant Robots. This repository holds the plans for the (obsolete) [Giant Robot Mark 1](Research/GiantRobots Mark 1.jpg) and the current [Giant Robot Mark 2](Research/GiantRobots Mark 2.jpg) as well as open sourced materials to build your own corporation bent on world domination.
 
 World Domination
 ----------------
@@ -45,3 +45,5 @@ How to invade the world
 Since the invasion of the 'Modern World As We Know It' is already underway by our ZeroTurnaround, we strongly suggest that you find another Modern World. Alternatively, you can join our forces and make the invasion even more successful. We've got a wonderful Tiny Robot for everyone that makes a useful contribution.
 
 **Don't forget:** The Robots Are Your Friends
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/58797dc05969e22f7f2ac706eebadaa6 "githalytics.com")](http://githalytics.com/zeroturnaround/giantrobots)
