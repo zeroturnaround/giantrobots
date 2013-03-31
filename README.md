@@ -4,7 +4,7 @@ GiantRobots
 Overview
 --------
 
-Welcome to the GiantRobots project. This open source repository is a part of ZeroTurnaround's plan to dominate humanity by building and deploying Giant Robots. This repository holds the plans for the (obsolete) [Giant Robot Mark 1](Research/GiantRobots Mark 1.jpg) and the current [Giant Robot Mark 2](Research/GiantRobots Mark 1.jpg) as well as open sourced materials to build your own corporation bent on world domination.
+Welcome to the GiantRobots project. This open source repository is a part of ZeroTurnaround's plan to dominate humanity by building and deploying Giant Robots. This repository holds the plans for the (obsolete) [Giant Robot Mark 1](Research/GiantRobots Mark 1.jpg) and the current [Giant Robot Mark 2](Research/GiantRobots Mark 2.jpg) as well as open sourced materials to build your own corporation bent on world domination.
 
 World Domination
 ----------------
