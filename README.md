@@ -4,14 +4,14 @@ GiantRobots
 Overview
 --------
 
-Welcome to the GiantRobots project. This open source repository is a part of ZeroTurnaround's plan to dominate humanity by building and deploying Giant Robots. This repository holds the plans for the (obsolete) [Giant Robot Mark 1](Research/GiantRobots Mark 1.jpg) and the current [Giant Robot Mark 2](Research/GiantRobots Mark 2.jpg) as well as open sourced materials to build your own corporation bent on world domination.
+Welcome to the GiantRobots project. This open source repository is a part of ZeroTurnaround's plan to dominate humanity by building and deploying Giant Robots. This repository holds the plans for the (obsolete) [Giant Robot Mark 1](Research/GiantRobots Mark 1.jpg?raw=true) and the current [Giant Robot Mark 2](Research/GiantRobots Mark 2.jpg?raw=true) as well as open sourced materials to build your own corporation bent on world domination.
 
 World Domination
 ----------------
 
 Enslaving humanity and achieving world domination is not an easy thing to do, otherwise you would already be enslaved by someone. We cannot take over the world ourselves, just like that, we need a structured plan with a good dose of kick ass. In our case we got more than enough kick ass, as we are deep into the research and development for creating Giant Robots which we will use as part of an army to enslave the human race. 
 
-I know what you're thinking, "How can you build Giant Robots to enslave humanity when Google hold all the patents?", right? Well, this sure did [slow down our development](Operations/Legal report on Giant Robot Mark 1.pdf) but we are confident we have an innovative design which doesn't encroach on the IP of competitors who are trying to achieve the same goals as us.
+I know what you're thinking, "How can you build Giant Robots to enslave humanity when Google hold all the patents?", right? Well, this sure did [slow down our development](Operations/Legal report on Giant Robot Mark 1.pdf?raw=true) but we are confident we have an innovative design which doesn't encroach on the IP of competitors who are trying to achieve the same goals as us.
 
 Open Source
 ---------------------------------------
