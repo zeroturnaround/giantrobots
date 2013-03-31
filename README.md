@@ -37,7 +37,7 @@ GiRoFE is an open-source research project that aims to make the creation and cus
 How to build your own robots
 ----------------------------
 
-The designs can be easily built with RoBuMa (Robot Building Machine) v0.9 or later. You merely need to load the files onto Secure Storage Slices and introduce them at exactly 17 second intervals, failure to respect this rhythm can yield unpredictable results. Note that ZeroTurnaround is not responsible for any injury sustained byt trying to build GiantRobots.
+The designs can be easily built with RoBuMa (Robot Building Machine) v0.9 or later. You merely need to load the files onto Secure Storage Slices and introduce them at exactly 17 second intervals, failure to respect this rhythm can yield unpredictable results. Note that ZeroTurnaround is not responsible for any injury sustained by trying to build GiantRobots.
 
 How to invade the world
 -----------------------
